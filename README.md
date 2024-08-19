@@ -1,3 +1,3 @@
 # Calculando-IMC
 
-Projeto experimental
+Projeto experimental com foco em aprendizado.
